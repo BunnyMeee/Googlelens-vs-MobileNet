@@ -1,0 +1,18 @@
+h1{
+    font-family:monospace;
+}
+img{
+    width:175px;
+}
+h2{
+    float: center;
+    font-size: 15px;
+    font-family: cursive;
+    
+}
+body{
+    background-image: linear-gradient(to top, rgb(244, 247, 255) 0%, rgb(203, 223, 250) 30%, rgb(168, 206, 255) 50%, rgb(106, 173, 250) 80%, rgb(76, 100, 235) 100%);
+}
+h3{
+    font-family: fantasy;
+}
